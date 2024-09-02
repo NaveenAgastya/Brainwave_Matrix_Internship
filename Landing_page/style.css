@@ -1,0 +1,185 @@
+/* General Reset and Body Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Header Section */
+header {
+    background: linear-gradient(to right, #00b4db, #0083b0);
+    color: #fff;
+    text-align: center;
+    padding: 60px 0;
+    position: relative;
+}
+header .cta-button {
+    background: #fff;
+    color: #0083b0;
+    padding: 15px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+}
+header .hero-image {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/* Features Section */
+.features {
+    padding: 40px 0;
+    background: #f4f4f4;
+    text-align: center;
+}
+.features .feature {
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+}
+.features img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+/* Social Proof Section */
+.social-proof {
+    padding: 40px 0;
+    background: #fff;
+    text-align: center;
+}
+.social-proof .client-logos img {
+    width: 100px;
+    margin: 10px;
+}
+.social-proof .testimonials blockquote {
+    border-left: 5px solid #0083b0;
+    padding-left: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+}
+.social-proof .trust-badges img {
+    width: 100px;
+    margin: 10px;
+}
+
+/* Interactive Element */
+.interactive {
+    padding: 40px 0;
+    background: #f4f4f4;
+    text-align: center;
+}
+.interactive .savings-calculator {
+    display: inline-block;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+.interactive input {
+    padding: 10px;
+    width: 80%;
+    margin: 10px 0;
+}
+.interactive .cta-button {
+    background: #0083b0;
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Lead Capture Form */
+.lead-capture {
+    padding: 40px 0;
+    text-align: center;
+}
+.lead-capture form {
+    display: inline-block;
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+}
+.lead-capture input {
+    padding: 10px;
+    width: 80%;
+    margin: 10px 0;
+}
+.lead-capture .cta-button {
+    background: #0083b0;
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Urgency Section */
+.urgency {
+    padding: 40px 0;
+    background: #ffeb3b;
+    text-align: center;
+}
+.urgency .countdown-timer {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+.urgency .cta-button {
+    background: #d32f2f;
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Footer Section */
+footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+footer .footer-links {
+    list-style: none;
+    padding: 0;
+}
+footer .footer-links li {
+    display: inline;
+    margin: 0 10px;
+}
+footer .footer-links a {
+    color: #fff;
+    text-decoration: none;
+}
+footer .social-media a {
+    display: inline-block;
+    margin: 0 10px;
+}
+footer .social-media img {
+    width: 30px;
+}
+footer .live-chat a {
+    display: block;
+    margin-top: 10px;
+    background: #0083b0;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
