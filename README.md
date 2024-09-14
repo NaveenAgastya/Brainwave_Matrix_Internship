@@ -79,11 +79,6 @@ The e-commerce application is a more advanced project that simulates a functiona
 4. (Optional) Add a checkout feature or integrate with a mock payment API.
 
 
-###Preview
-
-![Preview](assets/images/web_preview.png)
-
-
 ---
 
 ## Technologies Used
