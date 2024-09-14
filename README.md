@@ -57,10 +57,11 @@ The to-do list application allows users to add, manage, and remove tasks. This p
 
 ---
 
-## Project 3: Dynamic E-Commerce Application
+## Project 3: E-Commerce Application
 
 ### Description
-The dynamic e-commerce application is a more advanced project that simulates a functional online store. The application should include product listings, a shopping cart, and a checkout process. This project will require using JavaScript to dynamically render products and manage cart functionality.
+
+The e-commerce application is a more advanced project that simulates a functional online store. The application should include product listings, a shopping cart, and a checkout process. This project will require using JavaScript to dynamically render products and manage cart functionality.
 
 ### Features
 
@@ -76,6 +77,12 @@ The dynamic e-commerce application is a more advanced project that simulates a f
 2. Implement the shopping cart functionality (add, remove, update totals).
 3. Style the application with CSS.
 4. (Optional) Add a checkout feature or integrate with a mock payment API.
+
+
+###Preview
+
+![Preview](assets/images/web_preview.png)
+
 
 ---
 
